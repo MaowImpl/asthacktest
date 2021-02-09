@@ -1,0 +1,4 @@
+dependencies {
+    annotationProcessor project(":apt")
+    compile project(":apt")
+}

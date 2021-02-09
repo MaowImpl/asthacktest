@@ -1,0 +1,4 @@
+rootProject.name = 'asthacktest'
+include 'apt'
+include 'core'
+
